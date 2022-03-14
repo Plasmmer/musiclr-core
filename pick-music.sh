@@ -25,3 +25,5 @@ num_musics=${#music[*]}        # Count how many elements.
 echo ${music[$((RANDOM%num_musics))]}
 
 exit 0
+
+#- from: https://tldp.org/LDP/abs/html/randomvar.html
