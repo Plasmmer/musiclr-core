@@ -1,0 +1,6 @@
+- Read all music files with a given .extension (take insp from what Personal Issues does to .json) and add'em to .json list
+- Count all .json's music entries
+
+- Pick random music from playlist.json but check if its not at todayplayed.json before playing
+
+- Function to re-shuffle, excluing musics of todayplayed.json
