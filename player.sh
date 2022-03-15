@@ -7,6 +7,7 @@ sudo apt install mpg321
 if [ "$1" = "play" ]; then
    if [ "$2" = "folder" ]; then
       if [ "$3" = "--random" ]; then
+         cd "$4"
          . "$SCRIPTPATH/./function_process_music.sh"
          process_music
          #paplay 
