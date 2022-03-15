@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -e
 
 # This is an example of choosing random elements of an array.
 
