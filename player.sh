@@ -2,7 +2,8 @@
 
 SCRIPTPATH="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 
-sudo apt install mpg321
+#sudo apt install mpg321
+#- task: check if installed before installing
 
 if [ "$1" = "play" ]; then
    if [ "$2" = "folder" ]; then
