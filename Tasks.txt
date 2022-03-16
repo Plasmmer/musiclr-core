@@ -4,3 +4,6 @@
 - Pick random music from playlist.json but check if its not at todayplayed.json before playing
 
 - Function to re-shuffle, excluing musics of todayplayed.json
+
+Support to .wma (will require other lib)
+Support to .m4a
