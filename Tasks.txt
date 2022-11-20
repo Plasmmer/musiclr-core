@@ -7,3 +7,4 @@
 
 Support to .wma (will require other lib)
 Support to .m4a
+- Log played songs
